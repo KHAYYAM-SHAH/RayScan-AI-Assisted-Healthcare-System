@@ -2,7 +2,7 @@
 
 RayScan is an AI-assisted medical imaging application designed to help both doctors and patients in analyzing ultrasound scans. The system focuses primarily on detecting and assisting in the diagnosis of kidney stones and breast cancer from ultrasound images.
 
-Design Prototype UI/UX (here at: https://www.figma.com/proto/3ytLeIYriQgPG4ffKGjle0/Radiology-kit?node-id=0-1&t=L60YahNHydZAj3Id-1 )
+Design Prototype UI/UX (here at: https://www.figma.com/design/3ytLeIYriQgPG4ffKGjle0/Radiology-kit?node-id=0-1&t=L60YahNHydZAj3Id-1 )
 
 It acts as a smart diagnostic support tool that enhances medical decision-making while also giving patients the ability to get preliminary insights from home.
 
@@ -34,7 +34,7 @@ Users can locate nearby pharmacies to easily access prescribed medicines.
 
 The project includes complete software engineering documentation:
 
-Requirement Gathering, System Analysis, UML Diagrams Architecture,  Design Prototype UI/UX (here at: https://www.figma.com/proto/3ytLeIYriQgPG4ffKGjle0/Radiology-kit?node-id=0-1&t=L60YahNHydZAj3Id-1 )
+Requirement Gathering, System Analysis, UML Diagrams Architecture,  Design Prototype UI/UX (here at: https://www.figma.com/design/3ytLeIYriQgPG4ffKGjle0/Radiology-kit?node-id=0-1&t=L60YahNHydZAj3Id-1 )
 
 
 🎥 Demo & Showcase 
